@@ -1,4 +1,3 @@
-- &defaults
   neko_id: longshounen
   level: 1
   algo: count
@@ -11,8 +10,7 @@
     image: /assets/achievements/anime/longshounen_1.jpg
     border_color: "#A25F2A"
     topic_id: 227422
-
-- <<: *defaults
+    
   level: 2
   threshold: 25
   metadata:
